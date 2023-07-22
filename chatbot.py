@@ -8,7 +8,7 @@ from gtts import gTTS
 from playsound import playsound
 import os
 
-openai.api_key = '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'
+openai.api_key = 'Your OpenAI API key'
 
 messages = [{"role":"system", "content":"You are a intelligent assistant."}]
 
